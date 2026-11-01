@@ -1,10 +1,10 @@
 # Explicit STRAIN / classical multidimensional scaling
 
-The supplied five-page **Multidimensional-Scaling.pdf** was read before implementation and is retained under `reference/`. It is the mathematical specification; its text is treated as reference material, not instructions overriding the request. Equation (6), the PSD rank-K truncation on pages 3–4, and the Euclidean/PCA observation on page 5 determine the implementation. No MDS, classical-scaling, kernel-PCA, or PCA routine is called.
+The supplied five-page **Multidimensional-Scaling.pdf** was read before implementation and is retained locally; the course PDF is not included in this public repository. It is the mathematical specification; its text is treated as reference material, not instructions overriding the request. Equation (6), the PSD rank-K truncation on pages 3–4, and the Euclidean/PCA observation on page 5 determine the implementation. No MDS, classical-scaling, kernel-PCA, or PCA routine is called.
 
 ## Run
 
-Requires Python 3.10+, NumPy and Matplotlib (`python -m pip install -r requirements.txt`). From this submission's root:
+Requires Python 3.10+, NumPy and Matplotlib (`python -m pip install -r requirements-mds.txt`). From this submission's root:
 
 ```sh
 cd results

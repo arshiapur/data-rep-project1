@@ -1,0 +1,16 @@
+test_cli_outputs_names_rows_and_json (test_mds.MdsTests.test_cli_outputs_names_rows_and_json) ... ok
+test_handout_triangle (test_mds.MdsTests.test_handout_triangle) ... ok
+test_inf_and_fractional_q (test_mds.MdsTests.test_inf_and_fractional_q) ... ok
+test_invalid_csv_and_arguments (test_mds.MdsTests.test_invalid_csv_and_arguments) ... ok
+test_iris_independent_centered_svd (test_mds.MdsTests.test_iris_independent_centered_svd) ... ok
+test_large_q_and_duplicate_rows (test_mds.MdsTests.test_large_q_and_duplicate_rows) ... ok
+test_normalization (test_mds.MdsTests.test_normalization) ... ok
+test_q_one_and_meaningful_negatives (test_mds.MdsTests.test_q_one_and_meaningful_negatives) ... ok
+test_rank_deficient_and_zero_data (test_mds.MdsTests.test_rank_deficient_and_zero_data) ... ok
+test_square_spectrum_and_distances (test_mds.MdsTests.test_square_spectrum_and_distances) ... ok
+test_tolerance_scales_quadratically (test_mds.MdsTests.test_tolerance_scales_quadratically) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 1.761s
+
+OK
